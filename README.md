@@ -1,4 +1,5 @@
 <div id="top"></div>
+
 # A portfolio of MM+ mods I've done
 
 <details open="true">
@@ -15,6 +16,14 @@
         <li><a href="#customizablemodifiers">CustomizableModifiers</a></li>
         <li><a href="#jays-modifier-pack">Jay's Modifier Pack</a></li>
         <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#tools">Tools</a>
+      <ul>
+        <li><a href="#shirt-injectorextractor">Shirt injector/extractor</a></li>
+        <li><a href="#twitch-integration-bot">Twitch integration bot</a></li>
+        <li><a href="#megamix-mod-visualstudio-template-cookiecutter">MegaMix+ Mod VisualStudio Template (cookiecutter)</a></li>
       </ul>
     </li>
     <li><a href="#roadmap">Roadmap</a></li>
@@ -56,6 +65,20 @@
 
 ### MM+FX Compability patch
 > Allows some incompatible mods to function next to MM+FX.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+## Tools
+
+### Shirt injector/extractor
+> Extracts the currently loaded image in the T-shirt editor to a file or imports one.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### Twitch integration bot
+> A private mod and gift to my good friend Stoich. Allows to use channel points to manipulate a set of things inside the game, like spawning notes.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### MegaMix+ Mod VisualStudio Template (cookiecutter)
+> Cookiecutter to quickly create a VisualStudio solution with all that's required to quickly get a mod running.
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ## Roadmap
