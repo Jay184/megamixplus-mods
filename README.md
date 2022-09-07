@@ -48,6 +48,9 @@
 ### Custom Leaderboards
 > Redirects uploads to a custom server with more features, ensuring the official leaderboards stay clean from modded songs.
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+[![Leaderboards Demo][leaderboards-demo]](#custom-leaderboards)
+
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### ModifierAPI
@@ -68,6 +71,9 @@
 ### Jay's Modifier Pack
 > Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+[![Modifiers Demo][modifiers-demo]](#jays-modifier-pack)
+
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### MM+FX Compability patch
@@ -107,3 +113,6 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 * [Img Shields](https://shields.io)
 * My DIVA friends. I dedicate those mods to you guys.
 <div align="right">(<a href="#top">back to top</a>)</div>
+
+[leaderboards-demo]: docs/images/leaderboards.gif
+[modifiers-demo]: docs/images/modifiers.gif
