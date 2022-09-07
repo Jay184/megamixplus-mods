@@ -1,1 +1,76 @@
-# megamixplus-mods
+<div id="top"></div>
+# A portfolio of MM+ mods I've done
+
+<details open="true">
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#mods">Mods</a>
+      <ul>
+        <li><a href="#autoplay">AutoPlay</a></li>
+        <li><a href="#chartrandomizer">ChartRandomizer</a></li>
+        <li><a href="#custom-leaderboards">Custom Leaderboards</a></li>
+        <li><a href="#modifierapi">ModifierAPI</a></li>
+        <li><a href="#pushapi">PushAPI</a></li>
+        <li><a href="#customizablemodifiers">CustomizableModifiers</a></li>
+        <li><a href="#jays-modifier-pack">Jay's Modifier Pack</a></li>
+        <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
+      </ul>
+    </li>
+    <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  </ol>
+</details>
+
+## Mods
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### AutoPlay
+> Adds a new modifier to auto play charts with a perfect result every time. (Requires ModifierAPI as of version 2.0.0)
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### ChartRandomizer
+> Adds a new modifier that randomizes charts when a song is started.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### Custom Leaderboards
+> Redirects uploads to a custom server with more features, ensuring the official leaderboards stay clean from modded songs.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### ModifierAPI
+> This mod does nothing by itself. It allows mod creators to implement custom modifiers easily.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### PushAPI
+> This mod does nothing by itself. It allows mod creators to display small toasts on screen.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### CustomizableModifiers
+> Customizes the HIGHSPEED, SUDDEN, and HIDDEN game modifier values.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### Jay's Modifier Pack
+> Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### MM+FX Compability patch
+> Allows some incompatible mods to function next to MM+FX.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+## Roadmap
+- [ ] `MM+ API` - Making the life of mod creators easier by exposing data of the game to them.
+- [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the exiting mod loader allowing python scripts to be loaded.
+- [ ] `MM+V` - A small scale online versus mode.
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+## Contact
+Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+## Acknowledgements
+* [Choose an Open Source License](https://choosealicense.com)
+* [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
+* [Img Shields](https://shields.io)
+* My DIVA friends. I dedicate those mods to you guys.
+<div align="right">(<a href="#top">back to top</a>)</div>
