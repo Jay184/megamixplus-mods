@@ -38,11 +38,17 @@
 ### AutoPlay
 > Adds a new modifier to auto play charts with a perfect result every time (Requires ModifierAPI as of version 2.0.0). Originally requested by Hisokeee.
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+[![AutoPlay video][autoplay-thumbnail]][autoplay-video]
+
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### ChartRandomizer
 > Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny.
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+[![Randomizer video][randomizer-thumbnail]][randomizer-video]
+
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### Custom Leaderboards
@@ -99,7 +105,7 @@
 
 ## Roadmap
 - [ ] `MM+ API` - Making the life of mod creators easier by exposing data of the game to them.
-- [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the exiting mod loader allowing python scripts to be loaded.
+- [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the existing mod loader allowing python scripts to be loaded.
 - [ ] `MM+V` - A small scale online versus mode.
 <div align="right">(<a href="#top">back to top</a>)</div>
 
@@ -116,3 +122,7 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 
 [leaderboards-demo]: docs/images/leaderboards.gif
 [modifiers-demo]: docs/images/modifiers.gif
+[randomizer-thumbnail]: https://img.youtube.com/vi/qGZU5m0Uw1I/0.jpg
+[randomizer-video]: https://www.youtube.com/watch?v=qGZU5m0Uw1I
+[autoplay-thumbnail]: https://img.youtube.com/vi/ef0B8Wf6hS0/0.jpg
+[autoplay-video]: https://www.youtube.com/watch?v=ef0B8Wf6hS0
