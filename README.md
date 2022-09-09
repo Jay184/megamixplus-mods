@@ -16,6 +16,7 @@
         <li><a href="#customizablemodifiers">CustomizableModifiers</a></li>
         <li><a href="#jays-modifier-pack">Jay's Modifier Pack</a></li>
         <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
+        <li><a href="#achievementblock">AchievementBlock</a></li>
       </ul>
     </li>
     <li>
@@ -84,6 +85,11 @@
 
 ### MM+FX Compability patch
 > Allows some incompatible mods to function next to MM+FX.
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### AchievementBlock
+> Blocks Steam achievements from progressing.
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
