@@ -40,7 +40,7 @@
 ### AutoPlay
 > Adds a new modifier to auto play charts with a perfect result every time (Requires ModifierAPI as of version 2.0.0). Originally requested by Hisokeee.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.1.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.2.0-blue?style=flat-square" />
 
 Video:<br />
 [![AutoPlay video][autoplay-thumbnail]][autoplay-video]
@@ -50,7 +50,7 @@ Video:<br />
 ### ChartRandomizer
 > Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny. (Requires ModifierAPI)
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.8-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.0-blue?style=flat-square" />
 
 Video:<br />
 [![Randomizer video][randomizer-thumbnail]][randomizer-video]
@@ -69,7 +69,7 @@ Video:<br />
 ### ModifierAPI
 > This mod does nothing by itself. It allows mod creators to implement custom modifiers easily.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.4-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### PushAPI
@@ -87,7 +87,7 @@ Video:<br />
 ### Jay's Modifier Pack
 > Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.8-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
 
 [![Modifiers Demo][modifiers-demo]](#jays-modifier-pack)
 
