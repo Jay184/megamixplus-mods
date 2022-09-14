@@ -39,23 +39,28 @@
 
 ### AutoPlay
 > Adds a new modifier to auto play charts with a perfect result every time (Requires ModifierAPI as of version 2.0.0). Originally requested by Hisokeee.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
 
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.1.0-blue?style=flat-square" />
+
+Video:<br />
 [![AutoPlay video][autoplay-thumbnail]][autoplay-video]
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### ChartRandomizer
 > Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
 
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.8-blue?style=flat-square" />
+
+Video:<br />
 [![Randomizer video][randomizer-thumbnail]][randomizer-video]
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### Custom Leaderboards
 > Redirects uploads to a custom server with more features, ensuring the official leaderboards stay clean from modded songs.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.0.0a3-blue?style=flat-square" />
 
 [![Leaderboards Demo][leaderboards-demo]](#custom-leaderboards)
 
@@ -63,22 +68,26 @@
 
 ### ModifierAPI
 > This mod does nothing by itself. It allows mod creators to implement custom modifiers easily.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.4-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### PushAPI
 > This mod does nothing by itself. It allows mod creators to display small toasts on screen.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.2-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### CustomizableModifiers
 > Customizes the HIGHSPEED, SUDDEN, and HIDDEN game modifier values.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-1.2.0-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### Jay's Modifier Pack
 > Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.8-blue?style=flat-square" />
 
 [![Modifiers Demo][modifiers-demo]](#jays-modifier-pack)
 
@@ -86,17 +95,20 @@
 
 ### MM+FX Compability patch
 > Allows some incompatible mods to function next to MM+FX.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.1-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### AchievementBlock
 > Blocks Steam achievements from progressing.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.2-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### LyricsPatch
 > Allows arbitrary length lyrics to be displayed. Also makes `\n` the newline character.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.1-blue?style=flat-square" />
 
 [![Lyrics Demo][lyrics-demo]][lyrics-demo-url]
 
@@ -106,12 +118,14 @@
 
 ### Shirt injector/extractor
 > Extracts the currently loaded image in the T-shirt editor to a file or imports one.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.3-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### Twitch integration bot
 > A private mod and gift to my good friend Stoich. Allows to use channel points to manipulate a set of things inside the game, like spawning notes.
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.01-blue?style=flat-square" />
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.01-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.3-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### MegaMix+ Mod VisualStudio Template (cookiecutter)
