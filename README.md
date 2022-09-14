@@ -17,6 +17,7 @@
         <li><a href="#jays-modifier-pack">Jay's Modifier Pack</a></li>
         <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
         <li><a href="#achievementblock">AchievementBlock</a></li>
+        <li><a href="#lyricspatch">LyricsPatch</a></li>
       </ul>
     </li>
     <li>
@@ -93,6 +94,14 @@
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
+### LyricsPatch
+> Allows arbitrary length lyrics to be displayed. Also makes `\n` the newline character.
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" />
+
+[![Lyrics Demo][lyrics-demo]][lyrics-demo-url]
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
 ## Tools
 
 ### Shirt injector/extractor
@@ -128,6 +137,8 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 
 [leaderboards-demo]: docs/images/leaderboards.gif
 [modifiers-demo]: docs/images/modifiers.gif
+[lyrics-demo]: https://i.imgur.com/E2fJoWx.png
+[lyrics-demo-url]: https://imgur.com/a/rgA7mBE
 [randomizer-thumbnail]: https://img.youtube.com/vi/qGZU5m0Uw1I/0.jpg
 [randomizer-video]: https://www.youtube.com/watch?v=qGZU5m0Uw1I
 [autoplay-thumbnail]: https://img.youtube.com/vi/ef0B8Wf6hS0/0.jpg
