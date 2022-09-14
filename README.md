@@ -108,7 +108,7 @@ Video:<br />
 ### LyricsPatch
 > Allows arbitrary length lyrics to be displayed. Also makes `\n` the newline character.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.1-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.2-blue?style=flat-square" />
 
 [![Lyrics Demo][lyrics-demo]][lyrics-demo-url]
 
