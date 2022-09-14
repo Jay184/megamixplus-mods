@@ -48,7 +48,7 @@ Video:<br />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### ChartRandomizer
-> Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny.
+> Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny. (Requires ModifierAPI)
 
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.8-blue?style=flat-square" />
 
