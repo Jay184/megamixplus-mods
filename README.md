@@ -159,7 +159,7 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 * My DIVA friends. I dedicate those mods to you guys.
 <div align="right">(<a href="#top">back to top</a>)</div>
 
-[leaderboards-demo]: docs/images/leaderboards.gif
+[leaderboards-demo]: docs/images/leaderboards2.gif
 [leaderboards-ui-demo]: docs/images/betterboards.gif
 [modifiers-demo]: docs/images/modifiers.gif
 [lyrics-demo]: https://i.imgur.com/E2fJoWx.png
