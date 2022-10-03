@@ -40,7 +40,7 @@
 ### AutoPlay
 > Adds a new modifier to auto play charts with a perfect result every time (Requires ModifierAPI as of version 2.0.0). Originally requested by Hisokeee.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.2.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.3.0-blue?style=flat-square" />
 
 Video:<br />
 [![AutoPlay video][autoplay-thumbnail]][autoplay-video]
