@@ -19,6 +19,8 @@
         <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
         <li><a href="#achievementblock">AchievementBlock</a></li>
         <li><a href="#lyricspatch">LyricsPatch</a></li>
+        <li><a href="#customranks">CustomRanks</a></li>
+        <li><a href="#macrosets">MacroSets</a></li>
       </ul>
     </li>
     <li>
@@ -124,6 +126,24 @@ Video:<br />
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
+### CustomRanks
+> Modifies rank display in the song selection. Allows arbitrary digit lengths, spacing, offsetting, and scaling of the ranking display.
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.1-blue?style=flat-square" />
+
+[![Ranks Demo][ranks-demo]](#customranks)
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### MacroSets
+> Save and load key config in the game using a web interface.
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.0-blue?style=flat-square" />
+
+[![Macro Demo][macros-demo]](#macrosets)
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
 ## Tools
 
 ### Shirt injector/extractor
@@ -143,6 +163,9 @@ Video:<br />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ## Roadmap
+- [ ] `3D PV dimming mod` - Reduce the ambient brightness of 3D PVs. Can be configured globally and per song.
+- [ ] `MacroSets v0.2.0` - Per song and difficulty macro sets.
+- [ ] `CustomRanks v0.2.0` - Change the rank calculation to no longer rely on hardcoded experience values.
 - [ ] `MM+ API` - Making the life of mod creators easier by exposing data of the game to them.
 - [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the existing mod loader allowing python scripts to be loaded.
 - [ ] `MM+V` - A small scale online versus mode.
@@ -164,6 +187,8 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 [modifiers-demo]: docs/images/modifiers.gif
 [lyrics-demo]: https://i.imgur.com/E2fJoWx.png
 [lyrics-demo-url]: https://imgur.com/a/rgA7mBE
+[ranks-demo]: docs/images/custom_ranks.png
+[macros-demo]: docs/images/macrosets.gif
 [randomizer-thumbnail]: https://img.youtube.com/vi/qGZU5m0Uw1I/0.jpg
 [randomizer-video]: https://www.youtube.com/watch?v=qGZU5m0Uw1I
 [autoplay-thumbnail]: https://img.youtube.com/vi/ef0B8Wf6hS0/0.jpg
