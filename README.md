@@ -19,6 +19,7 @@
         <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
         <li><a href="#achievementblock">AchievementBlock</a></li>
         <li><a href="#lyricspatch">LyricsPatch</a></li>
+        <li><a href="#customranks">CustomRanks</a></li>
         <li><a href="#macrosets">MacroSets</a></li>
       </ul>
     </li>
@@ -122,6 +123,13 @@ Video:<br />
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.2-blue?style=flat-square" />
 
 [![Lyrics Demo][lyrics-demo]][lyrics-demo-url]
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### CustomRanks
+> Modifies rank display in the song selection. Allows arbitrary digit lengths, spacing, offsetting, and scaling of the ranking display.
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.1-blue?style=flat-square" />
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
