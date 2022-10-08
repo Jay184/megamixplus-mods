@@ -163,6 +163,9 @@ Video:<br />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ## Roadmap
+- [ ] `3D PV dimming mod` - Reduce the ambient brightness of 3D PVs. Can be configured globally and per song.
+- [ ] `MacroSets v0.2.0` - Per song and difficulty macro sets.
+- [ ] `CustomRanks v0.2.0` - Change the rank calculation to no longer rely on hardcoded experience values.
 - [ ] `MM+ API` - Making the life of mod creators easier by exposing data of the game to them.
 - [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the existing mod loader allowing python scripts to be loaded.
 - [ ] `MM+V` - A small scale online versus mode.
