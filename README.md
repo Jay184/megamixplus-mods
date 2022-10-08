@@ -11,6 +11,7 @@
         <li><a href="#autoplay">AutoPlay</a></li>
         <li><a href="#chartrandomizer">ChartRandomizer</a></li>
         <li><a href="#custom-leaderboards">Custom Leaderboards</a></li>
+        <li><a href="#betterleaderboardsui">BetterLeaderboardsUI</a></li>
         <li><a href="#modifierapi">ModifierAPI</a></li>
         <li><a href="#pushapi">PushAPI</a></li>
         <li><a href="#customizablemodifiers">CustomizableModifiers</a></li>
@@ -63,6 +64,15 @@ Video:<br />
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.0.0a3-blue?style=flat-square" />
 
 [![Leaderboards Demo][leaderboards-demo]](#custom-leaderboards)
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### BetterLeaderboardsUI
+> Displays score results (1.02), song count and the song's background in the leaderboard menu.
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.1-blue?style=flat-square" />
+
+[![Leaderboards UI Demo][leaderboards-ui-demo]](#betterleaderboardsui)
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
@@ -149,7 +159,8 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 * My DIVA friends. I dedicate those mods to you guys.
 <div align="right">(<a href="#top">back to top</a>)</div>
 
-[leaderboards-demo]: docs/images/leaderboards.gif
+[leaderboards-demo]: docs/images/leaderboards2.gif
+[leaderboards-ui-demo]: docs/images/betterboards.gif
 [modifiers-demo]: docs/images/modifiers.gif
 [lyrics-demo]: https://i.imgur.com/E2fJoWx.png
 [lyrics-demo-url]: https://imgur.com/a/rgA7mBE
