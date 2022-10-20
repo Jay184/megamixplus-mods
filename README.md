@@ -43,7 +43,7 @@
 ### AutoPlay
 > Adds a new modifier to auto play charts with a perfect result every time (Requires ModifierAPI as of version 2.0.0). Originally requested by Hisokeee.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.3.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.3.1-blue?style=flat-square" />
 
 Video:<br />
 [![AutoPlay video][autoplay-thumbnail]][autoplay-video]
@@ -63,7 +63,7 @@ Video:<br />
 ### Custom Leaderboards
 > Redirects uploads to a custom server with more features, ensuring the official leaderboards stay clean from modded songs.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.0.0a3-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-2.0.0b4-blue?style=flat-square" />
 
 [![Leaderboards Demo][leaderboards-demo]](#custom-leaderboards)
 
@@ -72,7 +72,7 @@ Video:<br />
 ### BetterLeaderboardsUI
 > Displays score results (1.02), song count and the song's background in the leaderboard menu.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.1-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.2-blue?style=flat-square" />
 
 [![Leaderboards UI Demo][leaderboards-ui-demo]](#betterleaderboardsui)
 
@@ -87,13 +87,13 @@ Video:<br />
 ### PushAPI
 > This mod does nothing by itself. It allows mod creators to display small toasts on screen.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.2-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.3-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### CustomizableModifiers
 > Customizes the HIGHSPEED, SUDDEN, and HIDDEN game modifier values.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-1.2.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-1.2.1-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### Jay's Modifier Pack
@@ -105,10 +105,10 @@ Video:<br />
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
-### MM+FX Compability patch
-> Allows some incompatible mods to function next to MM+FX.
+### Eden Compability patch
+> Allows some incompatible mods to function next to the Eden pack.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.1-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.2-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### AchievementBlock
@@ -120,7 +120,7 @@ Video:<br />
 ### LyricsPatch
 > Allows arbitrary length lyrics to be displayed. Also makes `\n` the newline character.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.2-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
 
 [![Lyrics Demo][lyrics-demo]][lyrics-demo-url]
 
@@ -129,7 +129,7 @@ Video:<br />
 ### CustomRanks
 > Modifies rank display in the song selection. Allows arbitrary digit lengths, spacing, offsetting, and scaling of the ranking display.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.1-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.2-blue?style=flat-square" />
 
 [![Ranks Demo][ranks-demo]](#customranks)
 
@@ -138,7 +138,7 @@ Video:<br />
 ### MacroSets
 > Save and load key config in the game using a web interface.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.1.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.0-blue?style=flat-square" />
 
 [![Macro Demo][macros-demo]](#macrosets)
 
@@ -163,10 +163,9 @@ Video:<br />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ## Roadmap
-- [ ] `3D PV dimming mod` - Reduce the ambient brightness of 3D PVs. Can be configured globally and per song.
-- [ ] `MacroSets v0.2.0` - Per song and difficulty macro sets.
+- [x] `3D PV dimming mod` - Reduce the ambient brightness of 3D PVs. Can be configured globally and per song.
+- [x] `MacroSets v0.2.0` - Per song and difficulty macro sets.
 - [ ] `CustomRanks v0.2.0` - Change the rank calculation to no longer rely on hardcoded experience values.
-- [ ] `MM+ API` - Making the life of mod creators easier by exposing data of the game to them.
 - [ ] `PyMM` - A mod loader supporting python scripts. Currently a sub-mod of the existing mod loader allowing python scripts to be loaded.
 - [ ] `MM+V` - A small scale online versus mode.
 <div align="right">(<a href="#top">back to top</a>)</div>
