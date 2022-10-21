@@ -81,7 +81,7 @@ Video:<br />
 ### ModifierAPI
 > This mod does nothing by itself. It allows mod creators to implement custom modifiers easily.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.4.0-blue?style=flat-square" />
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ### PushAPI
@@ -99,7 +99,7 @@ Video:<br />
 ### Jay's Modifier Pack
 > Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.4.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.5.0-blue?style=flat-square" />
 
 [![Modifiers Demo][modifiers-demo]](#jays-modifier-pack)
 
