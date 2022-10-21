@@ -53,7 +53,7 @@ Video:<br />
 ### ChartRandomizer
 > Adds a new modifier that randomizes charts when a song is started. Originally requested by Rinny. (Requires ModifierAPI)
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
 
 Video:<br />
 [![Randomizer video][randomizer-thumbnail]][randomizer-video]
@@ -99,7 +99,7 @@ Video:<br />
 ### Jay's Modifier Pack
 > Adds a few bonus modifiers. Requires the ModifierAPI mod to function.
 
-<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.3.0-blue?style=flat-square" />
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.4.0-blue?style=flat-square" />
 
 [![Modifiers Demo][modifiers-demo]](#jays-modifier-pack)
 
