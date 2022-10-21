@@ -16,11 +16,12 @@
         <li><a href="#pushapi">PushAPI</a></li>
         <li><a href="#customizablemodifiers">CustomizableModifiers</a></li>
         <li><a href="#jays-modifier-pack">Jay's Modifier Pack</a></li>
-        <li><a href="#mmfx-compability-patch">MM+FX Compability patch</a></li>
+        <li><a href="#eden-compability-patch">Eden Compability patch</a></li>
         <li><a href="#achievementblock">AchievementBlock</a></li>
         <li><a href="#lyricspatch">LyricsPatch</a></li>
         <li><a href="#customranks">CustomRanks</a></li>
         <li><a href="#macrosets">MacroSets</a></li>
+        <li><a href="#3d-pv-dimming">3D PV Dimming</a></li>
       </ul>
     </li>
     <li>
@@ -141,6 +142,13 @@ Video:<br />
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.2.0-blue?style=flat-square" />
 
 [![Macro Demo][macros-demo]](#macrosets)
+
+<div align="right">(<a href="#top">back to top</a>)</div>
+
+### 3D PV Dimming
+> Reduces the ambient brightness of 3D PVs. Can be used to tint PVs in any RGB color.
+
+<img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.2-blue?style=flat-square" />
 
 <div align="right">(<a href="#top">back to top</a>)</div>
 
