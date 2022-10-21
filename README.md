@@ -150,6 +150,8 @@ Video:<br />
 
 <img alt="Supported versions" src="https://img.shields.io/badge/compatible%20versions-1.00%20--%201.02-blue?style=flat-square" /> <img alt="Mod version" src="https://img.shields.io/badge/mod%20version-0.0.2-blue?style=flat-square" />
 
+[![Dim Demo][dim-demo]](#3d-pv-dimming)
+
 <div align="right">(<a href="#top">back to top</a>)</div>
 
 ## Tools
@@ -196,6 +198,7 @@ Jay184 - Jay#4711 - Twitch: [0jay0](https://twitch.tv/0jay0)<br />
 [lyrics-demo-url]: https://imgur.com/a/rgA7mBE
 [ranks-demo]: docs/images/custom_ranks.png
 [macros-demo]: docs/images/macrosets.gif
+[dim-demo]: https://i.imgur.com/Z22LVRd.png
 [randomizer-thumbnail]: https://img.youtube.com/vi/qGZU5m0Uw1I/0.jpg
 [randomizer-video]: https://www.youtube.com/watch?v=qGZU5m0Uw1I
 [autoplay-thumbnail]: https://img.youtube.com/vi/ef0B8Wf6hS0/0.jpg
