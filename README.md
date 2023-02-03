@@ -2,6 +2,8 @@
 
 # A portfolio of MM+ mods I've done
 
+## Archived. This repo is slowly replaced with gamebanana pages and their own repositories.
+
 <details open="true">
   <summary>Table of Contents</summary>
   <ol>
